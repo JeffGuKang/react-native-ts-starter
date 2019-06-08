@@ -6,7 +6,7 @@
     "start": "react-native start",
     "test": "jest",
     "rename": "node ./scripts/rename.js",
-    "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
+    "lint": "./node_modules/.bin/eslint  '*/**/*.{js,ts,tsx}'",
     "ios": "react-native run-ios --simulator='iPhone X'",
     "android": "react-native run-android"
   },
