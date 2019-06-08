@@ -14,7 +14,6 @@ Tested in React Native > 0.60RC
 
 Make your github repogitory from [Use this template](https://github.com/JeffGuKang/react-native-ts-starter/generate) button from this github repository.
 
-
 ### From Local
 
 1. `git clone https://github.com/JeffGuKang/react-native-ts-starter.git` from your local
@@ -34,6 +33,10 @@ It is used from
 
 We include .vscode settings can be changed your settings.
 If you want to use your vscode settings, just delete the `.vscode` folder.
+
+## ESLint
+
+You would install some modules globally related to ESLint when you use ESLint as global module. (ex: `npm install -g eslint`)
 
 ## License
 
