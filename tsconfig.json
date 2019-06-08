@@ -85,7 +85,8 @@
     "build",
     ".coverage",
     "native-assets",
-    "jest"
+    "jest",
+    "./scripts/*"
   ],
   "include": [
     "./node_modules/@types",
