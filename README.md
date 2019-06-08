@@ -8,13 +8,13 @@ Tested in React Native > 0.60RC
 
 ## Install
 
-### From Github Template
+### Github Repository By Github Template
 
 [Template](https://github.com/JeffGuKang/react-native-ts-starter/generate)
 
 Make your github repogitory from [Use this template](https://github.com/JeffGuKang/react-native-ts-starter/generate) button from this github repository.
 
-### From Local
+### Local
 
 1. `git clone https://github.com/JeffGuKang/react-native-ts-starter.git` from your local
 2. `cd react-native-ts-starter` or change the folder name and go in
