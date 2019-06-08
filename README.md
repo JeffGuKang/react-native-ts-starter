@@ -38,6 +38,10 @@ If you want to use your vscode settings, just delete the `.vscode` folder.
 
 You would install some modules globally related to ESLint when you use ESLint as global module. (ex: `npm install -g eslint`)
 
+## References
+
+- <https://github.com/Microsoft/TypeScript-React-Native-Starter#typescript-react-native-starter>
+
 ## License
 
 MIT
