@@ -1,7 +1,7 @@
 platform :ios, '9.0'
 
-target 'OneProjectRN' do
-  # Pods for OneProjectRN
+target 'RNTSSTARTER' do
+  # Pods for RNTSSTARTER
   pod 'React', :path => '../node_modules/react-native/'
   pod 'React-Core', :path => '../node_modules/react-native/React'
   pod 'React-DevSupport', :path => '../node_modules/react-native/React'
@@ -27,17 +27,17 @@ target 'OneProjectRN' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'OneProjectRNTests' do
+  target 'RNTSSTARTERTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
 end
 
-target 'OneProjectRN-tvOS' do
-  # Pods for OneProjectRN-tvOS
+target 'RNTSSTARTER-tvOS' do
+  # Pods for RNTSSTARTER-tvOS
 
-  target 'OneProjectRN-tvOSTests' do
+  target 'RNTSSTARTER-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* OneProjectRNTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OneProjectRNTests.m */; };
+		00E356F31AD99517003FC87E /* RNTSSTARTERTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RNTSSTARTERTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		1C3BA14F7812A7BB3478274E /* libPods-OneProjectRN-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 48A76AC21DA13ABF40C10109 /* libPods-OneProjectRN-tvOSTests.a */; };
+		1C3BA14F7812A7BB3478274E /* libPods-RNTSSTARTER-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 48A76AC21DA13ABF40C10109 /* libPods-RNTSSTARTER-tvOSTests.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* OneProjectRNTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OneProjectRNTests.m */; };
-		5FE9A4F9C4D585C7E1859CC1 /* libPods-OneProjectRN-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C9A33972DA2AFFB892B1F2E /* libPods-OneProjectRN-tvOS.a */; };
-		7E854DCC5B240AF2F899146B /* libPods-OneProjectRN.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 03F9AABA82761666DB328486 /* libPods-OneProjectRN.a */; };
-		85F07C2FAC24241025489CBB /* libPods-OneProjectRNTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 63C02C5CD5DE6DE3019D0899 /* libPods-OneProjectRNTests.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* RNTSSTARTERTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RNTSSTARTERTests.m */; };
+		5FE9A4F9C4D585C7E1859CC1 /* libPods-RNTSSTARTER-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C9A33972DA2AFFB892B1F2E /* libPods-RNTSSTARTER-tvOS.a */; };
+		7E854DCC5B240AF2F899146B /* libPods-RNTSSTARTER.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 03F9AABA82761666DB328486 /* libPods-RNTSSTARTER.a */; };
+		85F07C2FAC24241025489CBB /* libPods-RNTSSTARTERTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 63C02C5CD5DE6DE3019D0899 /* libPods-RNTSSTARTERTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,43 +28,43 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = OneProjectRN;
+			remoteInfo = RNTSSTARTER;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "OneProjectRN-tvOS";
+			remoteInfo = "RNTSSTARTER-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* OneProjectRNTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OneProjectRNTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* RNTSSTARTERTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RNTSSTARTERTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* OneProjectRNTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OneProjectRNTests.m; sourceTree = "<group>"; };
-		03F9AABA82761666DB328486 /* libPods-OneProjectRN.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OneProjectRN.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0FCCBDDDC26C2631B74B83B8 /* Pods-OneProjectRN.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneProjectRN.release.xcconfig"; path = "Pods/Target Support Files/Pods-OneProjectRN/Pods-OneProjectRN.release.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* OneProjectRN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OneProjectRN.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = OneProjectRN/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = OneProjectRN/AppDelegate.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* RNTSSTARTERTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNTSSTARTERTests.m; sourceTree = "<group>"; };
+		03F9AABA82761666DB328486 /* libPods-RNTSSTARTER.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNTSSTARTER.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0FCCBDDDC26C2631B74B83B8 /* Pods-RNTSSTARTER.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTSSTARTER.release.xcconfig"; path = "Pods/Target Support Files/Pods-RNTSSTARTER/Pods-RNTSSTARTER.release.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* RNTSSTARTER.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RNTSSTARTER.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = RNTSSTARTER/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = RNTSSTARTER/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = OneProjectRN/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = OneProjectRN/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = OneProjectRN/main.m; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* OneProjectRN-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OneProjectRN-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* OneProjectRN-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OneProjectRN-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3C9A33972DA2AFFB892B1F2E /* libPods-OneProjectRN-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OneProjectRN-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		48A76AC21DA13ABF40C10109 /* libPods-OneProjectRN-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OneProjectRN-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5B154ED5B0D24E2487DC23DD /* Pods-OneProjectRN-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneProjectRN-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-OneProjectRN-tvOSTests/Pods-OneProjectRN-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		636A4E203D2728C3013E40AB /* Pods-OneProjectRN-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneProjectRN-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OneProjectRN-tvOS/Pods-OneProjectRN-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		63C02C5CD5DE6DE3019D0899 /* libPods-OneProjectRNTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OneProjectRNTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		72789D759FEA5E965CECCD54 /* Pods-OneProjectRN-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneProjectRN-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OneProjectRN-tvOSTests/Pods-OneProjectRN-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		87A55F270B3B2BAC2E9C07AA /* Pods-OneProjectRNTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneProjectRNTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-OneProjectRNTests/Pods-OneProjectRNTests.release.xcconfig"; sourceTree = "<group>"; };
-		8E0DB19A1C6D192B6FBA84ED /* Pods-OneProjectRN-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneProjectRN-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-OneProjectRN-tvOS/Pods-OneProjectRN-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		B5971C21F94771AFE95C5F06 /* Pods-OneProjectRN.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneProjectRN.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OneProjectRN/Pods-OneProjectRN.debug.xcconfig"; sourceTree = "<group>"; };
-		CACA95EE7888C59AB0EA7E49 /* Pods-OneProjectRNTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneProjectRNTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OneProjectRNTests/Pods-OneProjectRNTests.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = RNTSSTARTER/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = RNTSSTARTER/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = RNTSSTARTER/main.m; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* RNTSSTARTER-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RNTSSTARTER-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* RNTSSTARTER-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RNTSSTARTER-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C9A33972DA2AFFB892B1F2E /* libPods-RNTSSTARTER-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNTSSTARTER-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		48A76AC21DA13ABF40C10109 /* libPods-RNTSSTARTER-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNTSSTARTER-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5B154ED5B0D24E2487DC23DD /* Pods-RNTSSTARTER-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTSSTARTER-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RNTSSTARTER-tvOSTests/Pods-RNTSSTARTER-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		636A4E203D2728C3013E40AB /* Pods-RNTSSTARTER-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTSSTARTER-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RNTSSTARTER-tvOS/Pods-RNTSSTARTER-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		63C02C5CD5DE6DE3019D0899 /* libPods-RNTSSTARTERTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNTSSTARTERTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		72789D759FEA5E965CECCD54 /* Pods-RNTSSTARTER-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTSSTARTER-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RNTSSTARTER-tvOSTests/Pods-RNTSSTARTER-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		87A55F270B3B2BAC2E9C07AA /* Pods-RNTSSTARTERTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTSSTARTERTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RNTSSTARTERTests/Pods-RNTSSTARTERTests.release.xcconfig"; sourceTree = "<group>"; };
+		8E0DB19A1C6D192B6FBA84ED /* Pods-RNTSSTARTER-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTSSTARTER-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-RNTSSTARTER-tvOS/Pods-RNTSSTARTER-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		B5971C21F94771AFE95C5F06 /* Pods-RNTSSTARTER.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTSSTARTER.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RNTSSTARTER/Pods-RNTSSTARTER.debug.xcconfig"; sourceTree = "<group>"; };
+		CACA95EE7888C59AB0EA7E49 /* Pods-RNTSSTARTERTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNTSSTARTERTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RNTSSTARTERTests/Pods-RNTSSTARTERTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				85F07C2FAC24241025489CBB /* libPods-OneProjectRNTests.a in Frameworks */,
+				85F07C2FAC24241025489CBB /* libPods-RNTSSTARTERTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E854DCC5B240AF2F899146B /* libPods-OneProjectRN.a in Frameworks */,
+				7E854DCC5B240AF2F899146B /* libPods-RNTSSTARTER.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5FE9A4F9C4D585C7E1859CC1 /* libPods-OneProjectRN-tvOS.a in Frameworks */,
+				5FE9A4F9C4D585C7E1859CC1 /* libPods-RNTSSTARTER-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1C3BA14F7812A7BB3478274E /* libPods-OneProjectRN-tvOSTests.a in Frameworks */,
+				1C3BA14F7812A7BB3478274E /* libPods-RNTSSTARTER-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* OneProjectRNTests */ = {
+		00E356EF1AD99517003FC87E /* RNTSSTARTERTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* OneProjectRNTests.m */,
+				00E356F21AD99517003FC87E /* RNTSSTARTERTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = OneProjectRNTests;
+			path = RNTSSTARTERTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* OneProjectRN */ = {
+		13B07FAE1A68108700A75B9A /* RNTSSTARTER */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = OneProjectRN;
+			name = RNTSSTARTER;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +141,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				03F9AABA82761666DB328486 /* libPods-OneProjectRN.a */,
-				3C9A33972DA2AFFB892B1F2E /* libPods-OneProjectRN-tvOS.a */,
-				48A76AC21DA13ABF40C10109 /* libPods-OneProjectRN-tvOSTests.a */,
-				63C02C5CD5DE6DE3019D0899 /* libPods-OneProjectRNTests.a */,
+				03F9AABA82761666DB328486 /* libPods-RNTSSTARTER.a */,
+				3C9A33972DA2AFFB892B1F2E /* libPods-RNTSSTARTER-tvOS.a */,
+				48A76AC21DA13ABF40C10109 /* libPods-RNTSSTARTER-tvOSTests.a */,
+				63C02C5CD5DE6DE3019D0899 /* libPods-RNTSSTARTERTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -159,9 +159,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* OneProjectRN */,
+				13B07FAE1A68108700A75B9A /* RNTSSTARTER */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* OneProjectRNTests */,
+				00E356EF1AD99517003FC87E /* RNTSSTARTERTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				B726029552FCD0B1D5545BB4 /* Pods */,
@@ -174,10 +174,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* OneProjectRN.app */,
-				00E356EE1AD99517003FC87E /* OneProjectRNTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* OneProjectRN-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* OneProjectRN-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* RNTSSTARTER.app */,
+				00E356EE1AD99517003FC87E /* RNTSSTARTERTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* RNTSSTARTER-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* RNTSSTARTER-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -185,14 +185,14 @@
 		B726029552FCD0B1D5545BB4 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B5971C21F94771AFE95C5F06 /* Pods-OneProjectRN.debug.xcconfig */,
-				0FCCBDDDC26C2631B74B83B8 /* Pods-OneProjectRN.release.xcconfig */,
-				636A4E203D2728C3013E40AB /* Pods-OneProjectRN-tvOS.debug.xcconfig */,
-				8E0DB19A1C6D192B6FBA84ED /* Pods-OneProjectRN-tvOS.release.xcconfig */,
-				72789D759FEA5E965CECCD54 /* Pods-OneProjectRN-tvOSTests.debug.xcconfig */,
-				5B154ED5B0D24E2487DC23DD /* Pods-OneProjectRN-tvOSTests.release.xcconfig */,
-				CACA95EE7888C59AB0EA7E49 /* Pods-OneProjectRNTests.debug.xcconfig */,
-				87A55F270B3B2BAC2E9C07AA /* Pods-OneProjectRNTests.release.xcconfig */,
+				B5971C21F94771AFE95C5F06 /* Pods-RNTSSTARTER.debug.xcconfig */,
+				0FCCBDDDC26C2631B74B83B8 /* Pods-RNTSSTARTER.release.xcconfig */,
+				636A4E203D2728C3013E40AB /* Pods-RNTSSTARTER-tvOS.debug.xcconfig */,
+				8E0DB19A1C6D192B6FBA84ED /* Pods-RNTSSTARTER-tvOS.release.xcconfig */,
+				72789D759FEA5E965CECCD54 /* Pods-RNTSSTARTER-tvOSTests.debug.xcconfig */,
+				5B154ED5B0D24E2487DC23DD /* Pods-RNTSSTARTER-tvOSTests.release.xcconfig */,
+				CACA95EE7888C59AB0EA7E49 /* Pods-RNTSSTARTERTests.debug.xcconfig */,
+				87A55F270B3B2BAC2E9C07AA /* Pods-RNTSSTARTERTests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -200,9 +200,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* OneProjectRNTests */ = {
+		00E356ED1AD99517003FC87E /* RNTSSTARTERTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "OneProjectRNTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "RNTSSTARTERTests" */;
 			buildPhases = (
 				8C5D15DCF588F1CC460B0416 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -216,14 +216,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = OneProjectRNTests;
-			productName = OneProjectRNTests;
-			productReference = 00E356EE1AD99517003FC87E /* OneProjectRNTests.xctest */;
+			name = RNTSSTARTERTests;
+			productName = RNTSSTARTERTests;
+			productReference = 00E356EE1AD99517003FC87E /* RNTSSTARTERTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* OneProjectRN */ = {
+		13B07F861A680F5B00A75B9A /* RNTSSTARTER */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "OneProjectRN" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "RNTSSTARTER" */;
 			buildPhases = (
 				1295CC599EA4D16D9AEA00D6 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -238,14 +238,14 @@
 			);
 			dependencies = (
 			);
-			name = OneProjectRN;
-			productName = OneProjectRN;
-			productReference = 13B07F961A680F5B00A75B9A /* OneProjectRN.app */;
+			name = RNTSSTARTER;
+			productName = RNTSSTARTER;
+			productReference = 13B07F961A680F5B00A75B9A /* RNTSSTARTER.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* OneProjectRN-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* RNTSSTARTER-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OneProjectRN-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RNTSSTARTER-tvOS" */;
 			buildPhases = (
 				CCA178B97A7D748BCAE79279 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -260,14 +260,14 @@
 			);
 			dependencies = (
 			);
-			name = "OneProjectRN-tvOS";
-			productName = "OneProjectRN-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* OneProjectRN-tvOS.app */;
+			name = "RNTSSTARTER-tvOS";
+			productName = "RNTSSTARTER-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* RNTSSTARTER-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* OneProjectRN-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* RNTSSTARTER-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OneProjectRN-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RNTSSTARTER-tvOSTests" */;
 			buildPhases = (
 				AF4F2F10E7AB74EB223EF80E /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -281,9 +281,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "OneProjectRN-tvOSTests";
-			productName = "OneProjectRN-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* OneProjectRN-tvOSTests.xctest */;
+			name = "RNTSSTARTER-tvOSTests";
+			productName = "RNTSSTARTER-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* RNTSSTARTER-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -310,7 +310,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "OneProjectRN" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "RNTSSTARTER" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -324,10 +324,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* OneProjectRN */,
-				00E356ED1AD99517003FC87E /* OneProjectRNTests */,
-				2D02E47A1E0B4A5D006451C7 /* OneProjectRN-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* OneProjectRN-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* RNTSSTARTER */,
+				00E356ED1AD99517003FC87E /* RNTSSTARTERTests */,
+				2D02E47A1E0B4A5D006451C7 /* RNTSSTARTER-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* RNTSSTARTER-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -397,7 +397,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OneProjectRN-tvOSTests/Pods-OneProjectRN-tvOSTests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RNTSSTARTER-tvOSTests/Pods-RNTSSTARTER-tvOSTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		1295CC599EA4D16D9AEA00D6 /* [CP] Check Pods Manifest.lock */ = {
@@ -415,7 +415,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-OneProjectRN-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-RNTSSTARTER-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -438,7 +438,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OneProjectRNTests/Pods-OneProjectRNTests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RNTSSTARTERTests/Pods-RNTSSTARTERTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
@@ -471,7 +471,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OneProjectRN-tvOS/Pods-OneProjectRN-tvOS-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RNTSSTARTER-tvOS/Pods-RNTSSTARTER-tvOS-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		8C5D15DCF588F1CC460B0416 /* [CP] Check Pods Manifest.lock */ = {
@@ -489,7 +489,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-OneProjectRNTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-RNTSSTARTERTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -512,7 +512,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OneProjectRN-tvOSTests/Pods-OneProjectRN-tvOSTests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RNTSSTARTER-tvOSTests/Pods-RNTSSTARTER-tvOSTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		AF4F2F10E7AB74EB223EF80E /* [CP] Check Pods Manifest.lock */ = {
@@ -530,7 +530,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-OneProjectRN-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-RNTSSTARTER-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -553,7 +553,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OneProjectRNTests/Pods-OneProjectRNTests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RNTSSTARTERTests/Pods-RNTSSTARTERTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		CCA178B97A7D748BCAE79279 /* [CP] Check Pods Manifest.lock */ = {
@@ -571,7 +571,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-OneProjectRN-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-RNTSSTARTER-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -594,7 +594,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OneProjectRN/Pods-OneProjectRN-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RNTSSTARTER/Pods-RNTSSTARTER-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		F3665CECB32E7DFD5AA6D378 /* [CP] Copy Pods Resources */ = {
@@ -613,7 +613,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OneProjectRN/Pods-OneProjectRN-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RNTSSTARTER/Pods-RNTSSTARTER-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		F71B6C4C32AC2AE8B51CABAF /* [CP] Copy Pods Resources */ = {
@@ -632,7 +632,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OneProjectRN-tvOS/Pods-OneProjectRN-tvOS-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RNTSSTARTER-tvOS/Pods-RNTSSTARTER-tvOS-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -680,7 +680,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* OneProjectRNTests.m in Sources */,
+				00E356F31AD99517003FC87E /* RNTSSTARTERTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -706,7 +706,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* OneProjectRNTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* RNTSSTARTERTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -715,12 +715,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* OneProjectRN */;
+			target = 13B07F861A680F5B00A75B9A /* RNTSSTARTER */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* OneProjectRN-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* RNTSSTARTER-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -732,7 +732,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = OneProjectRN;
+			path = RNTSSTARTER;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -740,14 +740,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CACA95EE7888C59AB0EA7E49 /* Pods-OneProjectRNTests.debug.xcconfig */;
+			baseConfigurationReference = CACA95EE7888C59AB0EA7E49 /* Pods-RNTSSTARTERTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = OneProjectRNTests/Info.plist;
+				INFOPLIST_FILE = RNTSSTARTERTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -757,17 +757,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OneProjectRN.app/OneProjectRN";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RNTSSTARTER.app/RNTSSTARTER";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 87A55F270B3B2BAC2E9C07AA /* Pods-OneProjectRNTests.release.xcconfig */;
+			baseConfigurationReference = 87A55F270B3B2BAC2E9C07AA /* Pods-RNTSSTARTERTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = OneProjectRNTests/Info.plist;
+				INFOPLIST_FILE = RNTSSTARTERTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -777,18 +777,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OneProjectRN.app/OneProjectRN";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RNTSSTARTER.app/RNTSSTARTER";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B5971C21F94771AFE95C5F06 /* Pods-OneProjectRN.debug.xcconfig */;
+			baseConfigurationReference = B5971C21F94771AFE95C5F06 /* Pods-RNTSSTARTER.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				INFOPLIST_FILE = OneProjectRN/Info.plist;
+				INFOPLIST_FILE = RNTSSTARTER/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -796,19 +796,19 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = OneProjectRN;
+				PRODUCT_NAME = RNTSSTARTER;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0FCCBDDDC26C2631B74B83B8 /* Pods-OneProjectRN.release.xcconfig */;
+			baseConfigurationReference = 0FCCBDDDC26C2631B74B83B8 /* Pods-RNTSSTARTER.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
-				INFOPLIST_FILE = OneProjectRN/Info.plist;
+				INFOPLIST_FILE = RNTSSTARTER/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -816,14 +816,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = OneProjectRN;
+				PRODUCT_NAME = RNTSSTARTER;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 636A4E203D2728C3013E40AB /* Pods-OneProjectRN-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 636A4E203D2728C3013E40AB /* Pods-RNTSSTARTER-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -834,14 +834,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "OneProjectRN-tvOS/Info.plist";
+				INFOPLIST_FILE = "RNTSSTARTER-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OneProjectRN-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.RNTSSTARTER-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -851,7 +851,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8E0DB19A1C6D192B6FBA84ED /* Pods-OneProjectRN-tvOS.release.xcconfig */;
+			baseConfigurationReference = 8E0DB19A1C6D192B6FBA84ED /* Pods-RNTSSTARTER-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -862,14 +862,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "OneProjectRN-tvOS/Info.plist";
+				INFOPLIST_FILE = "RNTSSTARTER-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OneProjectRN-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.RNTSSTARTER-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -879,7 +879,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 72789D759FEA5E965CECCD54 /* Pods-OneProjectRN-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 72789D759FEA5E965CECCD54 /* Pods-RNTSSTARTER-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -889,24 +889,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "OneProjectRN-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "RNTSSTARTER-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OneProjectRN-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.RNTSSTARTER-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OneProjectRN-tvOS.app/OneProjectRN-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RNTSSTARTER-tvOS.app/RNTSSTARTER-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B154ED5B0D24E2487DC23DD /* Pods-OneProjectRN-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 5B154ED5B0D24E2487DC23DD /* Pods-RNTSSTARTER-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -916,17 +916,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "OneProjectRN-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "RNTSSTARTER-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OneProjectRN-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.RNTSSTARTER-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OneProjectRN-tvOS.app/OneProjectRN-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RNTSSTARTER-tvOS.app/RNTSSTARTER-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -1033,7 +1033,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "OneProjectRNTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "RNTSSTARTERTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -1042,7 +1042,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "OneProjectRN" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "RNTSSTARTER" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1051,7 +1051,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OneProjectRN-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RNTSSTARTER-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1060,7 +1060,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OneProjectRN-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RNTSSTARTER-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1069,7 +1069,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "OneProjectRN" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "RNTSSTARTER" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

@@ -23,11 +23,9 @@ Make your github repogitory from [Use this template](https://github.com/JeffGuKa
 
 ## Rename Project
 
-1. `npm run rename`
-2. Note down the package name value you want.
+1. `yarn rename "RENAME PROJECT" -b com.jeffgukang.rntsstarter`
 
-It is used from
-[react-native-firebase-starter](https://github.com/invertase/react-native-firebase-starter)
+Referenced from [react-native-rename](https://github.com/junedomingo/react-native-rename)
 
 ## VSCode Settings
 

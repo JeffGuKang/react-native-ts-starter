@@ -1,4 +1,4 @@
-package com.oneprojectrn;
+package com.jeffgukang.rntsstarter;
 
 import android.app.Application;
 
