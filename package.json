@@ -8,7 +8,8 @@
     "rename": "node ./scripts/rename.js",
     "lint": "./node_modules/.bin/eslint  '*/**/*.{js,ts,tsx}'",
     "ios": "react-native run-ios --simulator='iPhone X'",
-    "android": "react-native run-android"
+    "android": "react-native run-android",
+    "watch": "./node_modules/typescript/bin/tsc -w"
   },
   "dependencies": {
     "react": "16.8.6",

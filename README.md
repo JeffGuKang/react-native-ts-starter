@@ -34,9 +34,11 @@ It is used from
 We include .vscode settings can be changed your settings.
 If you want to use your vscode settings, just delete the `.vscode` folder.
 
+https://code.visualstudio.com/docs/typescript/typescript-tutorial
+
 ## ESLint
 
-You would install some modules globally related to ESLint when you use ESLint as global module. (ex: `npm install -g eslint`)
+You would install some modules globally related to ESLint when you use ESLint as global. (ex: `npm install -g eslint`)
 
 ## References
 

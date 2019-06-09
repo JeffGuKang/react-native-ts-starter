@@ -58,8 +58,9 @@ buck-out/
 # CocoaPods
 /ios/Pods/
 
-package.lock
+package-lock.*
 yarn.lock
+package
 
 # Jest
 #
