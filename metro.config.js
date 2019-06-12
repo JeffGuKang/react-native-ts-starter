@@ -6,5 +6,12 @@
  */
 
 module.exports = {
-  babelTransformerPath: require.resolve('react-native-typescript-transformer'),
+  transformer: {
+    getTransformOptions: async () => ({
+      transform: {
+        experimentalImportSupport: false,
+        inlineRequires: false,
+      },
+    }),
+  },
 };
