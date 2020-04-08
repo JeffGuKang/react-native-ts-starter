@@ -1,6 +1,7 @@
 # React Native TS Starter
 
 React Native Boilerplate included Typescript, Eslint and Prettier.
+I recommend to use this template only for reference only. 
 
 ## Version
 
